@@ -93,5 +93,4 @@ if __name__ == "__main__":
             continue
         else:
             print "Exit"
-            sys.exit()
-            break
+            sys.exit(0)
