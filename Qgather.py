@@ -1,8 +1,5 @@
 from urllib2 import urlopen as qiubyzhukhi
-import time
-import os
-import sys
-import base64
+import time, os, sys, base64
 #########################
 # OPEN SOURCE TO RECODE #
 #########################
